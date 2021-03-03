@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Chain of Command",
+		"JSCustom",
+		"Package Control",
+		"PackageResourceViewer",
+		"Rainglow",
+		"Sass",
+		"Solarized Color Scheme"
+	]
+}

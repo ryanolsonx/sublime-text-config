@@ -1,0 +1,53 @@
+[
+  // Like Emacs ctrl+0 I have
+  { "keys": ["ctrl+0"], "command": "chain", "args": {
+      "commands": [
+        ["close"],
+        ["set_layout", {
+          "cols": [0.0, 1.0],
+          "rows": [0.0, 1.0],
+          "cells": [[0, 0, 1, 1]]
+        }],
+      ]
+    } 
+  },
+
+  // Like Emacs ctrl+1 I have
+  { "keys": ["ctrl+1"], "command": "chain", "args": {
+      "commands": [
+        ["focus_neighboring_group"],
+        ["close"],
+        ["set_layout", {
+          "cols": [0.0, 1.0],
+          "rows": [0.0, 1.0],
+          "cells": [[0, 0, 1, 1]]
+        }],
+      ]
+    } 
+  },
+
+  // Like Emacs ctrl+2 I have
+  { "keys": ["ctrl+2"], "command": "chain", "args": {
+      "commands": [
+        ["set_layout", {
+          "cols": [0.0, 0.5, 1.0],
+          "rows": [0.0, 1.0],
+          "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+        }],
+        ["focus_group", { "group": 0 }],
+        ["clone_file"],
+        ["move_to_group", { "group": 1 }],
+        ["focus_group", { "group": 0 }]
+      ]
+    } 
+  },
+  // { "keys": ["alt+1"], "command": "move_to_group", "args": { "group": 0 } },
+  // { "keys": ["alt+2"], "command": "move_to_group", "args": { "group": 1 } },
+  // { "keys": ["alt+3"], "command": "move_to_group", "args": { "group": 2 } },
+  // { "keys": ["alt+4"], "command": "move_to_group", "args": { "group": 3 } },
+  // { "keys": ["alt+5"], "command": "move_to_group", "args": { "group": 4 } },
+  // { "keys": ["alt+6"], "command": "move_to_group", "args": { "group": 5 } },
+  // { "keys": ["alt+7"], "command": "move_to_group", "args": { "group": 6 } },
+  // { "keys": ["alt+8"], "command": "move_to_group", "args": { "group": 7 } },
+  // { "keys": ["alt+9"], "command": "move_to_group", "args": { "group": 8 } },
+]
