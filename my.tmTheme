@@ -10,11 +10,11 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#2e2a26</string>
+                <string>#3B3228</string>
                 <key>caret</key>
                 <string>#f8f8f0</string>
                 <key>foreground</key>
-                <string>#c5b09a</string>
+                <string>#bba792</string>
                 <key>invisibles</key>
                 <string>#60574e</string>
                 <key>lineHighlight</key>
@@ -54,7 +54,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ABCD74</string>
+                <string>#9db889</string>
             </dict>
         </dict>
         <dict>
@@ -65,7 +65,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#df8e68</string>
+                <string>#CFAE74</string>
             </dict>
         </dict>
         <dict>
@@ -88,7 +88,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#e7c072</string>
+                <string>#CFAE74</string>
             </dict>
         </dict>
         <dict>
@@ -110,7 +110,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#fadfc3</string>
+                <string>#D08864</string>
             </dict>
         </dict>
         <dict>
@@ -134,7 +134,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#fadfc3</string>
+                <string>#D08864</string>
             </dict>
         </dict>
         <dict>
@@ -160,7 +160,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#fadfc3</string>
+                <string>#D08864</string>
             </dict>
         </dict>
         <dict>
@@ -187,19 +187,6 @@
                 <string>italic underline</string>
                 <key>foreground</key>
                 <string>#db784d</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Tag name</string>
-            <key>scope</key>
-            <string>entity.name.tag</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
-                <key>foreground</key>
-                <string>#df8e68</string>
             </dict>
         </dict>
         <dict>
@@ -251,7 +238,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#df8e68</string>
+                <string>#CFAE74</string>
             </dict>
         </dict>
 
@@ -342,7 +329,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#df8e68</string>
+                <string>#CFAE74</string>
             </dict>
         </dict>
         <dict>
@@ -351,7 +338,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#df8e68</string>
+                <string>#CFAE74</string>
             </dict>
         </dict>
         <dict>
@@ -412,7 +399,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#db784d</string>
+                <string>#CFAE74</string>
             </dict>
         </dict>
 
@@ -424,7 +411,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#db784d</string>
+                <string>#CFAE74</string>
             </dict>
         </dict>
 
@@ -436,7 +423,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#f8bb39</string>
+                <string>#f5c159</string>
             </dict>
         </dict>
 
