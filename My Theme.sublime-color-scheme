@@ -1,12 +1,13 @@
 {
     "name": "My Theme",
-    "author": "Unknown",
+    "author": "Ryan Olson",
     "variables":
     {
+        "black": "hsl(30, 10%, 16%)",
         "blue": "hsl(240, 73%, 50%)",
         "cyan": "hsl(189, 100%, 39%)",
         "green": "hsl(90, 52%, 58%)",
-        "green2": "hsl(94, 25%, 63%)",
+        "green2": "hsl(83, 47%, 63%)",
         "green3": "hsl(124, 27%, 51%)",
         "grey": "hsl(33, 9%, 59%)",
         "grey2": "hsl(33, 10%, 22%)",
@@ -25,21 +26,25 @@
         "orange12": "hsl(30, 10%, 34%)",
         "orange13": "hsl(28, 10%, 29%)",
         "orange14": "hsl(32, 19%, 19%)",
+        "orange15": "hsl(19, 65%, 64%)",
         "red": "hsl(2, 60%, 53%)",
         "red2": "hsl(349, 80%, 51%)",
         "red3": "hsl(2, 14%, 35%)",
         "white": "hsl(0, 0%, 100%)",
         "white2": "hsl(60, 36%, 96%)",
+        "white3": "hsl(31, 27%, 69%)",
+        "white4": "hsl(31, 85%, 87%)",
         "yellow": "hsl(54, 70%, 68%)",
         "yellow2": "hsl(75, 100%, 37%)",
         "yellow3": "hsl(76, 76%, 49%)",
         "yellow4": "hsl(80, 76%, 53%)",
-        "yellow5": "hsl(50, 11%, 41%)"
+        "yellow5": "hsl(50, 11%, 41%)",
+        "yellow6": "hsl(40, 71%, 68%)"
     },
     "globals":
     {
-        "foreground": "var(orange11)",
-        "background": "var(orange14)",
+        "foreground": "var(white3)",
+        "background": "var(black)",
         "caret": "var(white2)",
         "invisibles": "var(orange12)",
         "line_highlight": "var(grey2)",
@@ -65,7 +70,7 @@
         {
             "name": "String",
             "scope": "string",
-            "foreground": "var(orange6)"
+            "foreground": "var(orange15)"
         },
         {
             "name": "Number",
@@ -75,7 +80,7 @@
         {
             "name": "Built-in constant",
             "scope": "constant.language",
-            "foreground": "var(orange6)"
+            "foreground": "var(yellow6)"
         },
         {
             "name": "Variable",
@@ -84,27 +89,27 @@
         {
             "name": "Keyword",
             "scope": "keyword",
-            "foreground": "var(orange7)"
+            "foreground": "var(white4)"
         },
         {
             "name": "Keyword Operator",
             "scope": "keyword.operator",
-            "foreground": "var(orange6)"
+            "foreground": "var(white4)"
         },
         {
             "name": "Storage",
             "scope": "storage",
-            "foreground": "var(orange7)"
+            "foreground": "var(white4)"
         },
         {
             "name": "Storage Modifier",
             "scope": "storage.modifier",
-            "foreground": "var(orange10)"
+            "foreground": "var(white4)"
         },
         {
             "name": "Storage type",
             "scope": "storage.type",
-            "foreground": "var(orange7)"
+            "foreground": "var(white4)"
         },
         {
             "name": "Class name",
@@ -121,7 +126,7 @@
         {
             "name": "Support type",
             "scope": "support.class",
-            "foreground": "var(orange2)"
+            "foreground": "var(yellow6)"
         },
         {
             "name": "Invalid",
