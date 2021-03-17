@@ -1,17 +1,29 @@
 {
+	"auto_close_tags": false,
+	"auto_complete": false,
 	"binary_file_patterns":
 	[
 		"node_modules/*"
 	],
 	"color_scheme": "Packages/User/Acme.sublime-color-scheme",
-	"font_face": "Fira Mono",
-	"font_size": 14,
+	"draw_indent_guides": false,
+	"draw_white_space": false,
+	"font_face": "SF Mono",
+	"font_size": 15,
+	"gutter": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"mini_diff": false,
+	"preview_on_click": false,
 	"scroll_past_end": true,
+	"show_definitions": false,
+	"show_errors_inline": false,
+	"show_navigation_bar": false,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"auto_close_tags": false,
+	"auto_match_enabled": false
 }
