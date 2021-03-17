@@ -3,7 +3,7 @@
 	[
 		"node_modules/*"
 	],
-	"color_scheme": "Packages/User/Dracula - Van Helsing.sublime-color-scheme",
+	"color_scheme": "Packages/User/Acme.sublime-color-scheme",
 	"font_face": "Fira Mono",
 	"font_size": 14,
 	"ignored_packages":
