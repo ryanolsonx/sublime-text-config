@@ -3,14 +3,15 @@
 	[
 		"node_modules/*"
 	],
-	"color_scheme": "Packages/User/My Theme.sublime-color-scheme",
+	"color_scheme": "Packages/User/Dracula - Van Helsing.sublime-color-scheme",
 	"font_face": "Fira Mono",
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
