@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+console.log('$1', $1);
+]]></content>
+  <tabTrigger>clo</tabTrigger>
+  <description>console.log('object', object);</description>
+  <scope>source.jsx</scope>
+</snippet>

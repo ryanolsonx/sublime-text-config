@@ -1,0 +1,18 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+  "variables":
+  {
+    "black3": "#0B0B09",
+    "red2": "#FA4286",
+    "yellow": "hsl(54, 90%, 73%)",
+    "yellow2": "hsl(80, 60%, 60%)",
+    "orange": "hsl(38, 98%, 66%)",
+  },
+  "globals":
+  {
+  },
+  "rules":
+  [
+    
+  ]
+}

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+import * as $2 from '$1';
+]]></content>
+  <tabTrigger>ime</tabTrigger>
+  <description>import * as alias from 'module'</description>
+  <scope>source.jsx</scope>
+</snippet>

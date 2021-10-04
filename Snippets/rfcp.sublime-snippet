@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+import React from 'react';
+import PropTypes from 'prop-types';
+
+$1.propTypes = {
+
+};
+
+export default function $1() {
+  return <div>$1</div>;
+}
+]]></content>
+  <tabTrigger>rfcp</tabTrigger>
+  <description>React Function Component with PropTypes</description>
+  <scope>source.jsx</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+PropTypes.number
+]]></content>
+  <tabTrigger>ptn</tabTrigger>
+  <description>PropTypes.number</description>
+  <scope>source.jsx</scope>
+</snippet>
