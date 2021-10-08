@@ -2,11 +2,8 @@
 	"bootstrapped": true,
 	"installed_packages":
 	[
-		"Base16 Color Schemes",
-		"Brackets Color Scheme",
 		"ElixirSyntax",
 		"Package Control",
-		"PackageDev",
 		"Sass",
 	],
 	"in_process_packages":
