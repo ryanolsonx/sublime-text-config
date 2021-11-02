@@ -3,12 +3,5 @@
 {
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "node_modules/**", "vendor/**", "elm-stuff/**"],
-	"ignored_packages":
-	[
-		"Vintage",
-	],
-	"trim_trailing_white_space_on_save": true,
-	"font_size": 15,
-	"color_scheme": "Solarized (dark).sublime-color-scheme",
+	"ignored_packages": ["Vintage"],
 }
