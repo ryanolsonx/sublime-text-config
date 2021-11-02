@@ -1,19 +1,14 @@
 // Settings in here override those in "Default/Preferences.sublime-settings",
 // and are overridden in turn by syntax-specific settings.
 {
-	"font_face": "Source Code Pro",
-	"font_size": 18,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "node_modules/**", "vendor/**"],
-	"color_scheme": "Packages/User/Evan.sublime-color-scheme",
+	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "node_modules/**", "vendor/**", "elm-stuff/**"],
 	"ignored_packages":
 	[
 		"Vintage",
 	],
-	// "draw_indent_guides": false,
-	// "line_numbers": false,
-	"theme": "Default.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"scroll_past_end": true,
+	"font_size": 15,
+	"color_scheme": "Solarized (dark).sublime-color-scheme",
 }
