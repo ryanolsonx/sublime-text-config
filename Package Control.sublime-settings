@@ -5,6 +5,7 @@
 		"Alabaster Color Scheme",
 		"ayu",
 		"Clouds Color Schemes",
+		"Elm Format on Save",
 		"Elm Syntax Highlighting",
 		"GitHub Theme",
 		"Good Wolf Color Scheme",
@@ -15,8 +16,12 @@
 		"Solarized Color Scheme",
 		"Summerfruit Color Scheme",
 		"Syntax Off Color Scheme",
+		"Zen Tabs",
+		"Zenburn Color Scheme",
+		"Zig Language",
 	],
 	"in_process_packages":
 	[
 	],
+	"debug": true,
 }

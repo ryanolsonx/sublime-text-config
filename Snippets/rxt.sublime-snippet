@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+export function $1() {
+  return async dispatch => {
+    dispatch($1Start())
+    try {
+      $0
+      dispatch($1Success())
+    } catch (e) {
+      console.log('$1 error', e);
+      snackbarQueue.notify({
+        body: 'Sorry, there was a problem',
+        dismissesOnAction: true,
+        actions: [{ title: 'RETRY', onClick: $1 }]
+      });
+      dispatch($1Failure());
+    }
+  };
+}
+]]></content>
+  <tabTrigger>rxt</tabTrigger>
+  <scope>source.jsx</scope>
+</snippet>

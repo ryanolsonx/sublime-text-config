@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+const dispatch = useDispatch();
+]]></content>
+  <tabTrigger>used</tabTrigger>
+  <description>const dispatch = useDispatch();</description>
+  <scope>source.jsx</scope>
+</snippet>

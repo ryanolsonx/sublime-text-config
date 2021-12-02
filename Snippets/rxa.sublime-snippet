@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+$1Start(state) {
+  state.isLoading = true;
+},
+
+$1Success(state, action) {
+  state.isLoading = false;
+},
+
+$1Failure(state) {
+  state.isLoading = false;
+},
+$1Start,
+$1Success,
+$1Failure,
+]]></content>
+  <tabTrigger>rxa</tabTrigger>
+  <scope>source.jsx</scope>
+</snippet>
