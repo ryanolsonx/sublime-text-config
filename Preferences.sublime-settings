@@ -10,7 +10,7 @@
 	],
 	"trim_trailing_white_space_on_save": true,
 	"font_size": 14,
-	"color_scheme": "My Theme.sublime-color-scheme",
+	"color_scheme": "Monokai Dark.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 	"scroll_past_end": true,
 	"word_wrap": true,
