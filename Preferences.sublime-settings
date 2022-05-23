@@ -10,10 +10,10 @@
 	],
 	"trim_trailing_white_space_on_save": true,
 	"font_size": 13,
-	"color_scheme": "VsCodeLight.sublime-color-scheme",
+	"color_scheme": "Solarized (light).sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 	"scroll_past_end": true,
 	"word_wrap": true,
 	"highlight_modified_tabs": true,
-	"file_tab_style": "angled"
+	"file_tab_style": "angled",
 }

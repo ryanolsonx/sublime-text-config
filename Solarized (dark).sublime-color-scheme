@@ -1,0 +1,65 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+  "variables":
+  {
+  },
+  "globals":
+  {
+  },
+  "rules":
+  [
+    {
+      "name": "JavaScript Function Parameters",
+      "scope": "variable.parameter.function.js",
+      "foreground": "var(base0)"
+    },
+    {
+      "scope": "constant.numeric",
+      "foreground": "var(magenta)"
+    },
+    {
+      "scope": "comment, meta.documentation",
+      "font_style": "italic"
+    },
+    {
+      "name": "{}",
+      "scope": "meta.brace.curly, punctuation.section.block",
+      "foreground": "var(blue)"
+    },
+    {
+      "name": "Built-in constant",
+      "scope": "constant, meta.preprocessor",
+      "foreground": "var(yellow)"
+    },
+    {
+      "name": "Constant language",
+      "scope": "constant.language",
+      "foreground": "var(cyan)"
+    },
+    {
+      "name": "Variable Function",
+      "scope": "variable.function",
+      "foreground": "var(base0)"
+    },
+    {
+      "name": "Function name",
+      "scope": "entity.name.function",
+      "foreground": "var(base0)"
+    },
+    {
+      "name": "Arithmetical Operators",
+      "scope": "keyword.operator.arithmetic",
+      "foreground": "var(green)"
+    },
+    {
+      "name": "Quotes",
+      "scope": "punctuation.definition.string",
+      "foreground": "var(cyan)"
+    },
+    {
+      "name": "Attribute",
+      "scope": "entity.other.attribute-name",
+      "foreground": "var(base0)"
+    },
+  ]
+}

@@ -4,7 +4,8 @@
 	[
 		"JsPrettier",
 		"Package Control",
-		"Sass"
+		"Sass",
+		"Solarized Color Scheme",
 	],
 	"in_process_packages":
 	[
