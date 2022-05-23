@@ -9,10 +9,11 @@
 		"Vintage",
 	],
 	"trim_trailing_white_space_on_save": true,
-	"font_size": 14,
-	"color_scheme": "Monokai Dark.sublime-color-scheme",
+	"font_size": 13,
+	"color_scheme": "VsCodeLight.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 	"scroll_past_end": true,
 	"word_wrap": true,
 	"highlight_modified_tabs": true,
+	"file_tab_style": "angled"
 }
