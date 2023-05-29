@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import { useDispatch, useSelector } from 'react-redux';
-]]></content>
-  <tabTrigger>imrr</tabTrigger>
-  <description>import { useDispatch, useSelector } from 'react-redux'</description>
-  <scope>source.jsx</scope>
-</snippet>

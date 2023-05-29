@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-PropTypes.any
-]]></content>
-  <tabTrigger>ptany</tabTrigger>
-  <description>PropTypes.any</description>
-  <scope>source.jsx</scope>
-</snippet>

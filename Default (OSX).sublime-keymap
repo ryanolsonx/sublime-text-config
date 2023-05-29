@@ -1,3 +1,0 @@
-[
-  { "keys": ["alt+up"], "command": "expand_selection", "args": {"to": "scope"} }
-]

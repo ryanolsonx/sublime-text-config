@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-PropTypes.func.isRequired
-]]></content>
-  <tabTrigger>ptf</tabTrigger>
-  <description>PropTypes.func.isRequired</description>
-  <scope>source.jsx</scope>
-</snippet>

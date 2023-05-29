@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-import * as R from 'ramda';
-]]></content>
-  <tabTrigger>imra</tabTrigger>
-  <description>import * as R from 'ramda'</description>
-  <scope>source.jsx</scope>
-</snippet>
