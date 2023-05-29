@@ -12,4 +12,5 @@
   "auto_complete": false,
   "file_tab_style": "angled",
   "binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "**/node_modules/**", ".next/**", ".jestCache/**"],
+	"font_size": 17,
 }

@@ -12,6 +12,23 @@
       "scope": "entity.name.function",
       "foreground": "#FF7800",
       "font_style": ""
+    },
+    {
+      "scope": "keyword, storage",
+      "font_style": ""
+    },
+    {
+      "scope": "support.class, support.type, keyword.control.import.ruby",
+      "foreground": "#0000FF"
+    },
+    {
+      "scope": "constant.other.symbol.ruby",
+      "foreground": "#6D79DE",
+      "font_style": ""
+    },
+    {
+      "scope": "variable.language.ruby",
+      "foreground": "#000000"
     }
   ]
 }
