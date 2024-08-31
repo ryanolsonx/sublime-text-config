@@ -1,0 +1,35 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+		"blue": "hsl(210, 70%, 50%)",
+        "blue2": "hsl(180, 55%, 44%)",
+        "green": "hsl(130, 56%, 40%)",
+        "grey": "hsl(0, 0%, 73%)",
+        "grey2": "hsl(0, 0%, 50%)",
+        "grey3": "hsl(0, 0%, 0%)",
+        // "blue2": "#00ff00",
+        "orange": "hsl(32, 93%, 55%)",
+        "orange2": "hsl(32, 85%, 52%)",
+        "orange3": "hsl(40, 94%, 53%)",
+
+        "pink": "hsl(300, 30%, 50%)",
+
+        "red": "hsl(357, 79%, 55%)",
+        "red2": "hsl(13, 93%, 55%)",
+        "red3": "hsl(16, 29%, 48%)",
+
+        "white": "hsl(0, 0%, 97%)",
+        "white2": "hsl(210, 11%, 85%)",
+        "white3": "hsla(204, 10%, 86%, 0.7)",
+        "white4": "hsl(195, 11%, 93%)",
+
+        "white5": "hsl(180, 9%, 99%)"
+	},
+	"globals":
+	{
+	},
+	"rules":
+	[
+	]
+}
